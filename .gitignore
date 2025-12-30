@@ -1,0 +1,22 @@
+.DS_Store
+.env
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+
+# Virtual environments
+venv/
+env/
+
+# Bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+
+
+
